@@ -1,0 +1,15 @@
+# # Python cache and virtual environment
+# __pycache__/
+
+
+# # Test coverage reports
+# .pytest_cache/
+
+
+# # Virtual environment
+venv/
+# env/
+# .venv/
+
+.pytest_cache/
+config/taskmanager-69d16-firebase-adminsdk-hbrip-af7bb56439.json
