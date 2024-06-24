@@ -13,6 +13,7 @@ The Tasks Manager App is a task management system developed using FastAPI for th
 ## Technology Stack:
 
 **FastAPI**: A modern, fast web framework for building APIs with Python.
+
 **Firebase**: A platform developed by Google for creating mobile and web applications that offers a real-time database, authentication, and various other services.
 
 ## Prerequisites
